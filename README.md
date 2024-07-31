@@ -15,3 +15,5 @@ RaspBerry_Proyect_PC/
 |-- templates/
   |-- index.html
 ```
+
+-- Terminar la documentacion  --
